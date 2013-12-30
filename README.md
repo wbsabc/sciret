@@ -12,7 +12,7 @@ http://sourceforge.jp/projects/sfnet_sciret/
 It's a good software, I hope that the software could help more people.
 
 
-This is the old version's readme file.
+The old version's readme file.
 ======
 Sciret is a advanced Knowledge based system written in PHP.
 With Sciret you can manage articles, bookmarks 
